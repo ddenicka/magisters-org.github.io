@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+php_flag display_errors off
+order allow,deny
+deny from 89.31.118.94
+deny from 213.87.120.191
+allow from all

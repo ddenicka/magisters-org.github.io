@@ -1,0 +1,34 @@
+*                               { margin: 0; padding: 0; }
+body                            { font: 12px "Lucida Grande", Sans-Serif; background: url(images/bg.png); }
+h2                              { color: #fa9f00; font: 30px Helvetica, Sans-Serif; margin: 0 0 10px 0; }
+#page-wrap                      {   width: 300px;
+  position: relative;
+  margin-top: 5px;}
+
+#otpsoob {background: #292929;
+  height: 59px;}
+#chat-wrap                      { }
+#chat-area                      {   height: 295px;
+  width: 290px;
+  overflow: auto;
+  padding: 10px;
+  background: white;
+  margin-left: 5px; 
+    margin-bottom: 5px;}
+#chat-area span                 { color: #000;  font-weight: bold; font-size: 15;}
+#chat-area div                    { padding: 8px 0; }
+
+#name-area                      { position: absolute; top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }   
+#name-area span                 { color: #fa9f00; }
+
+#send-message-area p            { float: left; color: white; padding-top: 27px; font-size: 14px; }
+#sendie                         { border: 1px solid #696969;
+background: #696969;
+  color: #fff;
+  width: 290px;
+  padding: 5px;
+  font: 14px "Lucida Grande", Sans-Serif;
+  float: right;
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px; }
